@@ -1,0 +1,12 @@
+
+.stoneImage{
+    width: 30px;
+}
+
+.stat-window{
+    padding: 15px;
+    text-align: left;
+    color: #FFF;
+    background: #697B7D;
+    border-radius: 25px;
+}

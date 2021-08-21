@@ -1,0 +1,9 @@
+
+.item-icon-container{
+    display: inline;
+}
+
+.item-icon-container img{
+    width: 30px;
+    vertical-align: middle;
+}

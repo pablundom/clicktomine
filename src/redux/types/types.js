@@ -1,0 +1,17 @@
+
+
+export const ADD_RESOURCE = 'ADD_RESOURCE';
+
+export const CACULATE_MINE_ODDS = 'CACULATE_MINE_ODDS';
+
+export const CLICK_MINE = 'CLICK_MINE';
+
+export const ADD_CLICK_STAT = 'ADD_CLICK_STAT';
+
+export const INIT_REPOSITORY = 'INIT_REPOSITORY';
+
+export const ADD_REPOSITORY = 'ADD_REPOSITORY';
+
+export const LOAD_SAVE = 'LOAD_SAVE';
+
+export const LOAD_SAVE_COMPRESS= 'LOAD_SAVE_COMPRESS';

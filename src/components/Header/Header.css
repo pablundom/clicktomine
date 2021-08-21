@@ -1,0 +1,26 @@
+
+
+header{
+    width: fit-content;
+    margin: 15px auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+a{
+    color: white;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    background: #697B7D;
+    padding: 25px;
+    display: block;
+    text-decoration: none;
+    transition: 0.015s all ease-in-out;
+}
+a:first-child {
+    border-radius: 25px 0 0 25px;
+}
+a:last-child {
+    border-radius: 0 25px 25px 0;
+}
+a:hover{
+    background: #2C3A47;
+}

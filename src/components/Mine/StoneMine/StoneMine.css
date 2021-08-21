@@ -1,0 +1,19 @@
+
+
+.stone-mine {
+    cursor: pointer;
+    width: 400px;
+    height: 300px;
+    background: url("../../../assets/img/stone.png");
+    background-size: cover;
+    display: table;
+    margin: 0 auto;
+}
+.stone-mine-container{
+    display: block;
+}
+.stone-mine-grid{
+    display: grid;
+    grid-template-columns:1fr 2fr;
+    grid-column-gap: 2%;
+ }
